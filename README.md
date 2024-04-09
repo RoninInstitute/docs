@@ -8,7 +8,7 @@ Contains versioned copies of the "Reframe Ronin" document obtained via the [trac
 
 ## Versions
 
-Generated using generate_version_table.sh](./generate_version_table.sh) 
+Generated using [generate_version_table.sh](./generate_version_table.sh) 
 
 [https://docs.google.com/document/u/0/export?format=docx&id=1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI](data/1c/5e/1c5ed031f10cb74bba9cc4f242714f149e819eb3abead1f238c6371283debdcc)
 [https://docs.google.com/document/u/0/export?format=odt&id=1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI](data/1b/a2/1ba2063ddd45e4621a27930f915031b8a81a2488b2025f906541097d8c28a825)
