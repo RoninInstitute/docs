@@ -13,3 +13,6 @@ echo -e "docx\nodt\npdf\nrtf\ntxt"\
  | sed "s+$+\&id=1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI+g"\
  | xargs preston track
 
+preston alias | grep docx | head -n1 | preston cat > reframing-ronin.docx
+preston alias | grep pdf | head -n1 | preston cat > reframing-ronin.pdf
+
