@@ -8,10 +8,8 @@
 # [2] Elliott M.J., Poelen, J.H. & Fortes, J.A.B. (2023) Signing data citations enables data verification and citation persistence. Sci Data. https://doi.org/10.1038/s41597-023-02230-y hash://sha256/f849c870565f608899f183ca261365dce9c9f1c5441b1c779e0db49df9c2a19d
 #
 
-echo -e "docx\nodt\npdf\nrtf\ntxt"\
- | sed "s+^+https://docs.google.com/document/u/0/export?format=+g"\
- | sed "s+$+\&id=1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI+g"\
- | xargs preston track
+
+preston track https://docs.google.com/document/d/1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI/edit
 
 preston alias | grep docx | head -n1 | preston cat > reframing-ronin.docx
 preston alias | grep pdf | head -n1 | preston cat > reframing-ronin.pdf
