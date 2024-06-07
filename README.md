@@ -2,7 +2,7 @@
 
 :warning: work in progress.
 
-Contains versioned copies of the "Reframe Ronin" document obtained via the [track.sh](./track.sh).
+Contains versioned copies of the "Reframe Ronin", and "Bylaw Meeting" documents obtained via the [track.sh](./track.sh).
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/ronin/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/ronin)
 
