@@ -12,3 +12,7 @@ The most recent tracked version of the document are available via:
 
 [reframing-ronin.pdf](./reframing-ronin.pdf)
 [reframing-ronin.docx](./reframing-ronin.docx)
+
+[bylaws-notes.pdf](./reframing-ronin.pdf)
+[bylaws-notes.docx](./reframing-ronin.docx)
+
