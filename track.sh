@@ -9,8 +9,13 @@
 #
 
 
-preston track https://docs.google.com/document/d/1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI/edit
+preston track https://docs.google.com/document/d/1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI/edit 
 
 preston alias | grep docx | head -n1 | preston cat > reframing-ronin.docx
 preston alias | grep pdf | head -n1 | preston cat > reframing-ronin.pdf
+
+preston track https://docs.google.com/document/d/11ObGQkSDG3-72sgqlqa3rQ5GUvorB1PaU5J5LwQHvAc/edit
+
+preston alias | grep docx | head -n1 | preston cat > bylaws-notes.docx
+preston alias | grep pdf | head -n1 | preston cat > bylaws-notes.pdf
 
