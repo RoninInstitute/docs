@@ -19,3 +19,7 @@ preston track https://docs.google.com/document/d/11ObGQkSDG3-72sgqlqa3rQ5GUvorB1
 preston alias | grep docx | head -n1 | preston cat > bylaws-notes.docx
 preston alias | grep pdf | head -n1 | preston cat > bylaws-notes.pdf
 
+preston track https://docs.google.com/document/d/18iwEiHUZlCjvi_Z-t35vechAHvIM07ltmIrDvkUPxhE/edit
+
+preston alias | grep docx | head -n1 | preston cat > bylaws-investigation.docx
+preston alias | grep pdf | head -n1 | preston cat > bylaws-investigation.pdf
