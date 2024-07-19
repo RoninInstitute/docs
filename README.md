@@ -1,5 +1,4 @@
 # Reframing Ronin
-
 :warning: work in progress.
 
 Contains versioned copies of the "Reframe Ronin", "Bylaw Meeting", "Draft Bylaws" documents obtained via the [track.sh](./track.sh).
