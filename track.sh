@@ -23,3 +23,8 @@ preston track https://docs.google.com/document/d/18iwEiHUZlCjvi_Z-t35vechAHvIM07
 
 preston alias | grep docx | head -n1 | preston cat > bylaws-investigation.docx
 preston alias | grep pdf | head -n1 | preston cat > bylaws-investigation.pdf
+
+preston track https://docs.google.com/document/d/1mDvCSI2FZUqAVB0QdWxIw8x4ycBvGRjxduQW7MKrj1A/edit
+
+preston alias | grep docx | head -n1 | preston cat > draft-bylaws.docx
+preston alias | grep pdf | head -n1 | preston cat > draft-bylaws.pdf

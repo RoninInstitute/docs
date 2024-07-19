@@ -2,7 +2,7 @@
 
 :warning: work in progress.
 
-Contains versioned copies of the "Reframe Ronin", and "Bylaw Meeting" documents obtained via the [track.sh](./track.sh).
+Contains versioned copies of the "Reframe Ronin", "Bylaw Meeting", "Draft Bylaws" documents obtained via the [track.sh](./track.sh).
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/ronin/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/ronin)
 
@@ -16,3 +16,5 @@ The most recent tracked version of the document are available via:
 [bylaws-notes.pdf](./bylaws-notes.pdf)
 [bylaws-notes.docx](./bylaws-notes.docx)
 
+[draft-bylaws.pdf](./draft-bylaws.pdf)
+[draft-bylaws.docx](./draft-bylaws.docx)
