@@ -10,11 +10,8 @@ Contains versioned copies of the "Reframe Ronin", "Bylaw Meeting", "Draft Bylaws
 
 The most recent tracked version of the document are available via:
 
-[reframing-ronin.pdf](./reframing-ronin.pdf)
-[reframing-ronin.docx](./reframing-ronin.docx)
+reframing-ronin[.pdf](./reframing-ronin.pdf)/[.docx](./reframing-ronin.docx)
 
-[bylaws-notes.pdf](./bylaws-notes.pdf)
-[bylaws-notes.docx](./bylaws-notes.docx)
+bylaws-notes[.pdf](./bylaws-notes.pdf)/[.docx](./bylaws-notes.docx)
 
-[draft-bylaws.pdf](./draft-bylaws.pdf)
-[draft-bylaws.docx](./draft-bylaws.docx)
+draft-bylaws[.pdf](./draft-bylaws.pdf)/[.docx](./draft-bylaws.docx)
