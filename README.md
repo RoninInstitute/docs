@@ -14,3 +14,9 @@ The most recent tracked version of the document are available via:
 [bylaws-notes.pdf](./bylaws-notes.pdf)/[.docx](./bylaws-notes.docx)
 
 [draft-bylaws.pdf](./draft-bylaws.pdf)/[.docx](./draft-bylaws.docx)
+
+[belonging-policy.pdf](./belonging-policy.pdf)/[.docx](./belonging-policy.docx)
+
+[consensus-decision-making-policy.pdf](./consensus-decision-making-policy.pdf)/[.docx](./consensus-decision-making-policy.docx)
+
+
