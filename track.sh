@@ -37,3 +37,27 @@ create_alias "belonging-policy"
 preston track https://docs.google.com/document/d/18zYXP-kFf904wotx1j_tQ0eh-2MnBKnzCbpn8n12iuU/edit
 
 create_alias "consensus-decision-making-policy"
+
+preston track https://docs.google.com/document/d/1ywRkRrzpQr-7PG8cT4p7cC4hGVD7dM-bSJUI6B2GW80/edit
+
+create_alias "accounting-and-finance-policy-and-procedure-manual"
+
+preston track https://docs.google.com/document/d/117JkiUMVvb-saklV2NujMal5T_ubQovx3wekWZ4wUrA/edit
+
+create_alias "information-technology-disaster-recovery-plan"
+
+preston track https://docs.google.com/document/d/1B_84DYE3gL-nfXG5iMAK6tYFW8d8G8zK1YNEWssGrwA/edit
+
+create_alias "information-technology-incident-response-plan"
+
+preston track https://docs.google.com/document/d/13IhvRxHX95IK7_xfzv4NpBFkl9qAJT1HZiX0EtcQbtY/edit
+
+create_alias "information-technology-policy-manual"
+
+preston track https://docs.google.com/document/d/1zBeHQMwyvDkVGyIGisqVqcvsuCNnsPUr5RuQf9wRR0U/edit
+
+create_alias "policy-and-procedure-for-termination-of-membership"
+
+preston track https://docs.google.com/document/d/1jxnS4QzuDes3wKvZNElrqGAhuJ1yQCbW/edit
+
+create_alias "whistleblower-policy-non-profit.docx"
