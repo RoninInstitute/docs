@@ -3,7 +3,7 @@
 
 Contains versioned copies of the "Reframe Ronin", "Bylaw Meeting", "Draft Bylaws", and related documents (e.g., manual, policy, plan) obtained via the [track.sh](./track.sh).
 
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/ronin/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/ronin)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/RoninInstitute/docs/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/RoninInstitute/docs)
 
 ## Versions
 
