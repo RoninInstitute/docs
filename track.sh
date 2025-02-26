@@ -30,7 +30,7 @@ preston track https://docs.google.com/document/d/1mDvCSI2FZUqAVB0QdWxIw8x4ycBvGR
 
 create_alias "draft-bylaws"
 
-preston track https://docs.google.com/document/d/1B-eXZBVeDaXFnD6S7mFpPMK6yeYTfJIlSfhKjHlOpkI/edit
+preston track https://docs.google.com/document/d/1KY8E_xia5vTVfBBLVGmcUW2ncPZi0btc8YHty0Pm8E4/edit?tab=t.0
 
 create_alias "belonging-policy"
 
