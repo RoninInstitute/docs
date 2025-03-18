@@ -15,6 +15,8 @@ The most recent tracked version of the document are available via:
 
 [draft-bylaws.pdf](./draft-bylaws.pdf)/[.docx](./draft-bylaws.docx)
 
+[draft-bylaws-haak.pdf](./draft-bylaws-haak.pdf)/[.docx](./draft-bylaws-haak.docx)
+
 [belonging-policy.pdf](./belonging-policy.pdf)/[.docx](./belonging-policy.docx)
 
 [consensus-decision-making-policy.pdf](./consensus-decision-making-policy.pdf)/[.docx](./consensus-decision-making-policy.docx)
