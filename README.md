@@ -15,10 +15,6 @@ The most recent tracked version of the document are available via:
 
 [draft-bylaws.pdf](./draft-bylaws.pdf)/[.docx](./draft-bylaws.docx)
 
-[draft-bylaws-haak.pdf](./draft-bylaws-haak.pdf)/[.docx](./draft-bylaws-haak.docx)
-
-Note that ```draft-bylaws-haak``` said to be merged into ```draft-bylaws``` at some point. 
-
 ## Other
 
 [reframing-ronin.pdf](./reframing-ronin.pdf)/[.docx](./reframing-ronin.docx)
