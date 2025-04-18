@@ -13,7 +13,7 @@ The most recent tracked version of the document are available via:
 
 [bylaws-notes.pdf](./bylaws-notes.pdf)/[.docx](./bylaws-notes.docx)
 
-[draft-bylaws.pdf](./draft-bylaws.pdf)/[.docx](./draft-bylaws.docx)
+[bylaws.pdf](./bylaws.pdf)/[.docx](./bylaws.docx)
 
 ## Other
 
