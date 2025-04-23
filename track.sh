@@ -28,7 +28,7 @@ create_alias "bylaws-investigation"
 
 preston track https://docs.google.com/document/d/1KY8E_xia5vTVfBBLVGmcUW2ncPZi0btc8YHty0Pm8E4/edit
 
-create_alias "draft-bylaws"
+create_alias "bylaws"
 
 preston track https://docs.google.com/document/d/1KY8E_xia5vTVfBBLVGmcUW2ncPZi0btc8YHty0Pm8E4/edit?tab=t.0
 
