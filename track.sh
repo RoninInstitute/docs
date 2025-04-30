@@ -34,6 +34,10 @@ preston track https://docs.google.com/document/d/1KY8E_xia5vTVfBBLVGmcUW2ncPZi0b
 
 create_alias "belonging-policy"
 
+preston track https://docs.google.com/document/d/1m9NEDv6L_z1GDQAKjrXdoQNh30goIeBqdVJNZ3yFLww/edit?tab=t.0
+
+create_alias "code-of-conduct"
+
 preston track https://docs.google.com/document/d/18zYXP-kFf904wotx1j_tQ0eh-2MnBKnzCbpn8n12iuU/edit
 
 create_alias "consensus-decision-making-policy"
