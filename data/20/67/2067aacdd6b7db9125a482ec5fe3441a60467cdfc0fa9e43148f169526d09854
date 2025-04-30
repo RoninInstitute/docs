@@ -1,0 +1,20 @@
+<https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#SoftwareAgent> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<https://preston.guoda.bio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Agent> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<https://preston.guoda.bio> <http://purl.org/dc/terms/description> "Preston is a software program that finds, archives and provides access to biodiversity datasets."@en <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Activity> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> <http://purl.org/dc/terms/description> "A crawl event that discovers biodiversity archives."@en <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> <http://www.w3.org/ns/prov#startedAtTime> "2025-04-30T17:02:25.806Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> <http://www.w3.org/ns/prov#wasStartedBy> <https://preston.guoda.bio> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<https://doi.org/10.5281/zenodo.1410543> <http://www.w3.org/ns/prov#usedBy> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<https://doi.org/10.5281/zenodo.1410543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/dc/dcmitype/Software> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<https://doi.org/10.5281/zenodo.1410543> <http://purl.org/dc/terms/bibliographicCitation> "Jorrit Poelen, Icaro Alzuru, & Michael Elliott. 2018-2024. Preston: a biodiversity dataset tracker (Version 0.10.7-SNAPSHOT@e5e53838c0cc0d940483180af82592ab5b696b83) [Software]. Zenodo. https://doi.org/10.5281/zenodo.1410543"@en <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<urn:uuid:0659a54f-b713-4f86-a917-5be166a14110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Entity> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<urn:uuid:0659a54f-b713-4f86-a917-5be166a14110> <http://purl.org/dc/terms/description> "A biodiversity dataset graph archive."@en <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<hash://sha256/498704d823862d8b86c2b0fa96dbd3ec4bb083b64aaa2728f3f97622ee82e1e7> <http://www.w3.org/ns/prov#usedBy> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> .
+<https://deeplinker.bio/.well-known/genid/f77e385e-bf9f-3d09-a884-9df2b9eb362c> <http://www.w3.org/ns/prov#wasGeneratedBy> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> .
+<https://deeplinker.bio/.well-known/genid/f77e385e-bf9f-3d09-a884-9df2b9eb362c> <http://www.w3.org/ns/prov#qualifiedGeneration> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> .
+<urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> <http://www.w3.org/ns/prov#generatedAtTime> "2025-04-30T17:02:26.684Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> .
+<urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/prov#Generation> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> .
+<urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> <http://www.w3.org/ns/prov#wasInformedBy> <urn:uuid:20416a9b-1592-42b6-aece-c8cce99eab8d> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> .
+<urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> <http://www.w3.org/ns/prov#used> <https://docs.google.com/document/d/1B_84DYE3gL-nfXG5iMAK6tYFW8d8G8zK1YNEWssGrwA/edit> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> .
+<https://docs.google.com/document/d/1B_84DYE3gL-nfXG5iMAK6tYFW8d8G8zK1YNEWssGrwA/edit> <http://purl.org/pav/hasVersion> <https://deeplinker.bio/.well-known/genid/f77e385e-bf9f-3d09-a884-9df2b9eb362c> <urn:uuid:ff5ad772-6779-4565-894c-e78526fffc42> .

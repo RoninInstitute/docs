@@ -17,6 +17,9 @@ The most recent tracked version of the document are available via:
 
 ## Other
 
+
+[code-of-conduct.pdf](./code-of-conduct.pdf)/[.docx](./code-of-conduct.docx)
+
 [reframing-ronin.pdf](./reframing-ronin.pdf)/[.docx](./reframing-ronin.docx)
 
 [belonging-policy.pdf](./belonging-policy.pdf)/[.docx](./belonging-policy.docx)
