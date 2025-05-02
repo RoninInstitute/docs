@@ -5,17 +5,25 @@ Contains versioned copies of the "Reframe Ronin", "Bylaw Meeting", "Draft Bylaws
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/RoninInstitute/docs/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/RoninInstitute/docs)
 
-## Versions
+## Official Public Ronin Documents
+
+ * [Articles_of_Incorporation_RIIS_2-0_California_SOS_2025-04-24.pdf](./Articles_of_Incorporation_RIIS_2-0_California_SOS_2025-04-24.pdf)
+
+ * [bylaws.pdf](./bylaws.pdf)/[.docx](./bylaws.docx)
+
+### Council Meeting Minutes
+  
+## Unofficial Documents
+
+### Versions
 
 The most recent tracked version of the document are available via:
 
-## Bylaws related (mostly)
+### Bylaws related (mostly)
 
 [bylaws-notes.pdf](./bylaws-notes.pdf)/[.docx](./bylaws-notes.docx)
 
-[bylaws.pdf](./bylaws.pdf)/[.docx](./bylaws.docx)
-
-## Other
+### Other
 
 
 [code-of-conduct.pdf](./code-of-conduct.pdf)/[.docx](./code-of-conduct.docx)
