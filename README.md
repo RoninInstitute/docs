@@ -1,11 +1,11 @@
-# Reframing Ronin
+# RIIS Documents
 ⚠️  work in progress ⚠️
 
-Contains versioned copies of the "Reframe Ronin", "Bylaw Meeting", "Draft Bylaws", and related documents (e.g., manual, policy, plan) obtained via the [track.sh](./track.sh).
+Contains versioned copies of the Ronin Institute for Independent Scholarship 2.0 (RIIS 2.0) and the by-laws group that preceeded it via the [track.sh](./track.sh).
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/RoninInstitute/docs/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/RoninInstitute/docs)
 
-## Official Public Ronin Documents
+## Official Public RIIS 2.0 Documents
 
  * [Articles_of_Incorporation_RIIS_2-0_California_SOS_2025-04-24.pdf](./Articles_of_Incorporation_RIIS_2-0_California_SOS_2025-04-24.pdf)
 
@@ -17,18 +17,17 @@ Contains versioned copies of the "Reframe Ronin", "Bylaw Meeting", "Draft Bylaws
 
 ### Versions
 
-The most recent tracked version of the document are available via:
+The most recent tracked version of the document are available:
 
-### Bylaws related (mostly)
+### Bylaws group related
 
-[bylaws-notes.pdf](./bylaws-notes.pdf)/[.docx](./bylaws-notes.docx)
+* [bylaws-notes.pdf](./bylaws-notes.pdf)/[.docx](./bylaws-notes.docx)
+
+* [reframing-ronin.pdf](./reframing-ronin.pdf)/[.docx](./reframing-ronin.docx)
 
 ### Other
 
-
 [code-of-conduct.pdf](./code-of-conduct.pdf)/[.docx](./code-of-conduct.docx)
-
-[reframing-ronin.pdf](./reframing-ronin.pdf)/[.docx](./reframing-ronin.docx)
 
 [belonging-policy.pdf](./belonging-policy.pdf)/[.docx](./belonging-policy.docx)
 
