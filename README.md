@@ -1,7 +1,7 @@
 # RIIS Documents
 ⚠️  work in progress ⚠️
 
-Contains versioned copies of the Ronin Institute for Independent Scholarship 2.0 (RIIS 2.0) and the by-laws group that preceeded it via the [track.sh](./track.sh).
+Contains versioned copies of documents for the Ronin Institute for Independent Scholarship 2.0 (RIIS 2.0) and the by-laws group that preceeded it via the [track.sh](./track.sh).
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/RoninInstitute/docs/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/RoninInstitute/docs)
 
