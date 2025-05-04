@@ -10,8 +10,8 @@
 
 create_alias() {
   local alias_name="$1"
-  preston alias | grep docx | head -n1 | preston cat > "${alias_name}.docx"
-  preston alias | grep pdf | head -n1 | preston cat > "${alias_name}.pdf"
+  preston head | preston cat | grep hasVersion | grep docx | head -n1 | preston cat > "${alias_name}.docx"
+  preston head | preston cat | grep hasVersion | grep pdf | head -n1 | preston cat > "${alias_name}.pdf"
 }
 
 preston track https://docs.google.com/document/d/1lyAYpU67imn5ceAjzv4UDGlmqw0F_mpW_oRRqb-C6FI/edit 
